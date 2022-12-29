@@ -1,0 +1,19 @@
+**Please perform CRUD operations on below data using HQL Queries 
+1.create Maven project in eclipse or in any IDE(eclipse or sts).
+ -1. Create/Save data into table using Hibernate Application
+	A.PatientId
+	B.PatientName
+	c.PatientCity
+	D.PatientPhoneNumber
+        E.PatientEmail
+
+*PatientId has to be generated automatically.
+
+*"Patient" table has to be created  automatically.
+
+*create Hibernate.cfg.xml file  to maintain database connections.
+
+1.insert Patient records to the database .
+2.Display all records from "Patient" table.
+3.Update "Patient" table
+4.Delete data from database table (Patient).
