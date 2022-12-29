@@ -1,0 +1,1 @@
+# JIM3T7_Hibernate_HQL_Queries
